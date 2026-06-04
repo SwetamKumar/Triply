@@ -1,0 +1,37 @@
+# Environment files
+.env
+.env.local
+.env.*
+
+# Eclipse
+.metadata/
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Java
+target/
+*.class
+
+# Maven
+.mvn/
+
+# Node
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
